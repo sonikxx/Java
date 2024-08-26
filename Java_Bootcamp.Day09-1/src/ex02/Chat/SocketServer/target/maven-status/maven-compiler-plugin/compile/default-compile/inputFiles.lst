@@ -1,0 +1,17 @@
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/services/UsersService.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/messageJSON/ConverterJSON.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/messageJSON/MessageJSON.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/CrudRepository.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/services/UsersServiceImpl.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/RoomRepository.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/server/Server.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/MessageRepositoryImpl.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/UsersRepositoryImpl.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/models/Room.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/models/User.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/app/Main.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/MessageRepository.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/RoomRepositoryImpl.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/UsersRepository.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/config/SocketsApplicationConfig.java
+/home/sonikxx/Desktop/s21/Java/Java_Bootcamp.Day09-1/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/models/Message.java

@@ -1,0 +1,6 @@
+edu/school21/sockets/app/Main.class
+edu/school21/sockets/client/Client$ThreadWriter.class
+edu/school21/sockets/client/Client$ThreadReader.class
+edu/school21/sockets/messageJSON/MessageJSON.class
+edu/school21/sockets/messageJSON/ConverterJSON.class
+edu/school21/sockets/client/Client.class

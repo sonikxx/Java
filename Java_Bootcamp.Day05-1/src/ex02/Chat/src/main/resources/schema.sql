@@ -1,0 +1,23 @@
+DROP SCHEMA IF EXISTS chat CASCADE;
+
+CREATE SCHEMA IF NOT EXISTS chat;
+
+CREATE TABLE IF NOT EXISTS chat.user (
+    id SERIAL PRIMARY KEY,
+    login VARCHAR(100) NOT NULL,
+    password VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS chat.room (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    owner INTEGER REFERENCES chat.user(id)
+);
+
+CREATE TABLE IF NOT EXISTS chat.message (
+    id SERIAL PRIMARY KEY,
+    author INTEGER REFERENCES chat.user(id),
+    room INTEGER REFERENCES chat.room(id),
+    text TEXT NOT NULL,
+    date_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

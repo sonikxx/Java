@@ -1,0 +1,5 @@
+edu/school21/annotations/HtmlInput.class
+edu/school21/annotations/HtmlForm.class
+edu/school21/processor/HtmlProcessor.class
+META-INF/services/javax.annotation.processing.Processor
+edu/school21/classes/UserForm.class

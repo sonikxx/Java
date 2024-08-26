@@ -1,0 +1,4 @@
+game/Game$1.class
+game/Settings.class
+game/GameArgs.class
+game/IllegalParametersException.class
