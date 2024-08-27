@@ -4,8 +4,6 @@
 *Takeaways: Today you will implement the basic mechanism of a client/server application based on Java—Sockets API.*
 
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 # Contents
 1. [Chapter I](#chapter-i) \
     1.1. [Preamble](#preamble)
@@ -36,7 +34,6 @@ Layer |	Example
 2.<font> Channel |	Ethernet, DSL
 1.<font> Physical |	USB, "twisted pair"
 
-![A Joke](misc/images/joke.png)
 
 # Chapter II
 ### General Rules
